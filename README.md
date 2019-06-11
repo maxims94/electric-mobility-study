@@ -27,16 +27,16 @@ After evaluating multiple models, I settled on a linear regression model that ta
 
 ### Dataset 1 (Data from Eurostat)
 
-* [Data cleaning (Eurostat)](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-cleaning.ipynb)
-* [Dataset creation: EV market share](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-1-market-share.ipynb)
-* [Dataset exploration](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-exploration.ipynb)
+* [Dataset 1: Cleaning](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-cleaning.ipynb)
+* [Dataset 1: EV market share](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-1-market-share.ipynb)
+* [Dataset 1: Exploration](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-exploration.ipynb)
 
 ### Dataset 2 (Full data set, model training)
 
 * [Dataset 2: Creation](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-creation.ipynb)
 * [Dataset 2: Exploration](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-exploration.ipynb)
 * [Dataset 2: Model](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-model.ipynb)
-* Dataset 2: Interactive ([binder](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-aoqgtg6m/notebooks/notebooks/dataset2-interactive.ipynb), [nbviewer])(https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-interactive.ipynb)
+* Dataset 2: Interactive ([binder](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-aoqgtg6m/notebooks/notebooks/dataset2-interactive.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-interactive.ipynb)
 
 ## Data
 
