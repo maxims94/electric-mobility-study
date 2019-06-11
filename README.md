@@ -15,12 +15,12 @@ I created a predictive model that uses these characteristics as input and predic
 
 After evaluating multiple models, I settled on a linear regression model that takes into account a subset of these characteristics:
 
-**The resulting model can be viewed [here (interactive)]()**
+**[The resulting model can be viewed here (interactive)]()**
 
 **Some of the most striking results:**
-* Norway is unparalleled in the world when it comes to EV market share. In fact, its numbers were so high that it had to be excluded from model training.
-* The time series data on electric car registrations in Europe shows an exponential trend; this is likely to continue in the next years and we should expect the share of EVs to rise immensely
-* Nearly every European country sees a steady rise of the market share of EVs; some (Poland, Hungary) more slower than others (Germany, France), but the trend is unmistakable!
+* Norway is unparalleled in the world when it comes to EV market share. In fact, its numbers were so high that I had to exclude it from the training data.
+* The time series data on electric car registrations in Europe shows an exponential trend of EV adoption; this is likely to continue in the next years and we should expect the share of EVs to rise immensely
+* Nearly every European country sees a steady rise in the market share of EVs: some (Poland, Hungary) more slower than others (Germany, France), but the trend is unmistakable!
 * To my surprise, success of nationalist parties does not correlate negatively with EV market share! The other characteristics, however, behave as expected (the strongest correlation is with GDP per capita)
 
 ## Notebooks
