@@ -15,6 +15,8 @@ I created a predictive model that uses these characteristics as input and predic
 
 After evaluating multiple models, I settled on a linear regression model that takes into account a subset of these characteristics:
 
+![Regression model](img/regression_model.gif)
+
 **[The resulting model can be viewed here (interactive)](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-aoqgtg6m/notebooks/notebooks/dataset2-interactive.ipynb)**
 
 **Some of the most striking results:**
@@ -36,7 +38,7 @@ After evaluating multiple models, I settled on a linear regression model that ta
 * [Dataset 2: Creation](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-creation.ipynb)
 * [Dataset 2: Exploration](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-exploration.ipynb)
 * [Dataset 2: Model](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-model.ipynb)
-* Dataset 2: Interactive ([binder](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-aoqgtg6m/notebooks/notebooks/dataset2-interactive.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-interactive.ipynb)
+* Dataset 2: Interactive ([binder](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-aoqgtg6m/notebooks/notebooks/dataset2-interactive.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-interactive.ipynb))
 
 ## Data
 
