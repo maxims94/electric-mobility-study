@@ -17,7 +17,7 @@ After evaluating multiple models, I settled on a linear regression model that ta
 
 ![Regression model](img/regression_model.gif)
 
-**[The resulting model can be viewed here (interactive)](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-v69n7cby/notebooks/notebooks/dataset2-interactive.ipynb)**
+**[The resulting model can be viewed here (fork to make it interactive)](https://www.kaggle.com/maxschmidt94/electric-mobility-study-interactive-model)**
 
 **Some of the most striking results:**
 * Norway is unparalleled in the world when it comes to EV market share. In fact, its numbers were so high that I had to exclude it from the training data.
@@ -39,7 +39,7 @@ After evaluating multiple models, I settled on a linear regression model that ta
 * [Dataset 2: Creation](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-creation.ipynb)
 * [Dataset 2: Exploration](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-exploration.ipynb)
 * [Dataset 2: Model](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-model.ipynb)
-* Dataset 2: Interactive ([binder](https://hub.gke.mybinder.org/user/maxims94-electric-mobility-study-v69n7cby/notebooks/notebooks/dataset2-interactive.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-interactive.ipynb))
+* Dataset 2: Interactive ([kaggle](https://www.kaggle.com/maxschmidt94/electric-mobility-study-interactive-model), [nbviewer](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset2-interactive.ipynb))
 
 ## Data
 
