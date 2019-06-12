@@ -30,6 +30,7 @@ After evaluating multiple models, I settled on a linear regression model that ta
 ### Dataset 1 (Data from Eurostat)
 
 * [Dataset 1: Cleaning](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-cleaning.ipynb)
+    * The cleaned data can be explored using QlikView ([qvf file](https://github.com/maxims94/electric-mobility-study/blob/master/other/elec_mob_study.qvf), [screenshot](https://github.com/maxims94/electric-mobility-study/blob/master/img/elec_mob_study_qlikview.png))
 * [Dataset 1: EV market share](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-1-market-share.ipynb)
 * [Dataset 1: Exploration](https://nbviewer.jupyter.org/github/maxims94/electric-mobility-study/blob/master/notebooks/dataset1-exploration.ipynb)
 
